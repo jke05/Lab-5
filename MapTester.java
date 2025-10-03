@@ -17,8 +17,7 @@ public class MapTester
      */
     public MapTester()
     {
-        // initialise instance variables
-        x = 0;
+        HashMap<String, String> map = new HashMap<>();
     }
 
     public void enterNumber(String name, String number)

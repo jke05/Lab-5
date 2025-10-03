@@ -28,4 +28,10 @@ It allows you to quickly look up a value using its key.
 {
     System.out.println(key);
 }
-33. 
+33.  private void fillResponseMap()
+34. Similarities: Stores objects, java.util package
+    Differences: different types of orders, array list allows duplicates,
+    no indexing on HashSet
+35. Array list allows duplicates, HashSet does not.
+    Array list maintains order, HashSet has a random order
+36. It leaves an empty space where you type in a space
